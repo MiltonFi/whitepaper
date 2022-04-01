@@ -12,11 +12,9 @@ Q2 - Seed token sale + Proof of Concept for Lago lending platform completion
 
 Q3 - Private token Sale + Fostering the MiltonFi community
 
-Q4 - Launch of the Lago (USDC stable coin) lending platform backed by real estate&#x20;
+Q4 - Launch of the Lago (USDC stable coin) lending platform backed by real estate
 
 Q4 - Launch of the NFT membership in select Countries (USA, Canada, Europe)
-
-
 
 </details>
 
@@ -24,11 +22,11 @@ Q4 - Launch of the NFT membership in select Countries (USA, Canada, Europe)
 
 <summary>2023</summary>
 
-Q1 - MILT Token Generation Event on public markets&#x20;
+Real estate acquisition directly with cryptocurrencies on MiltonFi with off chain partners.&#x20;
 
-Q1 - Launch of Real estate Venture events presented to Black and Gold members&#x20;
+Monetization of aggregated data with machine learning by enabling lending and buy side partners to leverage data on the MiltonFi chain, fees for access paid in MILT tokens.&#x20;
 
-Q3 - Launch of the MiltonFi Chain leveraging the Avalanche subnet solution + Creation of NFTs to track data from loans and properties.
+Financing the real estate development supply chain.
 
 </details>
 
